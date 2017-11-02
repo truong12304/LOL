@@ -1,0 +1,22 @@
+{
+  " tên " : " zoro12304 / php-chatfuel-class " ,
+  " mô tả " : " Một lớp PHP để tạo ra đầu ra JSON cho chatbot của bạn (xây dựng với Chatfuel) " ,
+  " trang chủ " : " https://github.com/truong12304 " ,
+  " từ khoá " : [ " chatbot " , " chatfuel " , " messenger bot " , " facebook bot " , " json api " ],
+  " type " : " thư viện " ,
+  " giấy phép " : " MIT " ,
+  " tác giả " : [{
+    " tên " : " truong pham " ,
+    " email " : " zoro12304@gmail.com " ,
+    " trang chủ " : " https://junookyo.blogspot.com/ " ,
+    " vai trò " : " Nhà phát triển "
+  }],
+  " yêu cầu " : {
+    " php " : " > = 5.3.0 "
+  },
+  " autoload " : {
+    " psr-4 " : {
+      " juno_okyo \\ " : " src / juno_okyo / "
+    }
+  }
+}
